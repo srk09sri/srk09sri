@@ -1,7 +1,14 @@
 # Skills
 # Organizational leadership
-- skill: Backend Development
-  description: Experienced Backend Engineer.
+- skill: Languages
+  description: Java, C++, Python
+
+- skill: Databases
+  description: SQL, Mongo
+
+- skill: Others
+  description: Spring Boot, Kafka, Git/Hg/svn
+
 
 # Digital content development and creation
 #- skill: Digital content development and creation
