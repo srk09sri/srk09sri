@@ -1,8 +1,14 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
+- organization: ACM
   role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+  year: 2011 &mdash; 2012
+  url: https://www.acm.org/
+  summary: Promoting ACM events in campuses
+
+- organization: Twenty19
+  role: Volunteer
+  year: 2011 &mdash; 2011
+  url: https://www.twenty19.com/
+  summary: Campus Ambassador for Twenty19

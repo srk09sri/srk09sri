@@ -2,8 +2,10 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Banking App
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+
+
+#- project: Banking App
+ # role: Founder & Primary Developer
+  #duration: 2012 &mdash; Present
   # url: "#"
-  description: Manage Transactional Details
+  #description: Manage Transactional Details
