@@ -2,4 +2,18 @@
 - degree: B.Tech - Computer Science
   uni: VIT University
   year: 2009 &mdash; 2013
-  awards: 9 CGPA
+  award: CGPA
+  summary: 9.01
+
+
+- degree: Intermediate
+  uni: W.H. Smith Memorial School, ISC
+  year: 2008
+  award: Percentage
+  summary: 81
+
+- degree: Higher Secondary
+  uni: W.H. Smith Memorial School, ICSE
+  year: 2006
+  award: Percentage
+  summary: 82
