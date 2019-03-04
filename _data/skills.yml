@@ -4,10 +4,10 @@
   description: Java, C++, Python
 
 - skill: Databases
-  description: SQL, Mongo
+  description: SQL, MongoDB
 
 - skill: Others
-  description: Spring Boot, Kafka, Git/Hg/svn
+  description: SpringBoot, Kafka, Git/Hg/SVN
 
 
 # Digital content development and creation
