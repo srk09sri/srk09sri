@@ -9,6 +9,4 @@
 - company: Amadeus Labs
   position: Software Engineer
   duration:  July, 2013 &mdash; March, 2017
-  summary: Backend Engineer for Amadeus Payment Platform. Worked on Amadeus Payment Server, a highly available transaction backend dedicated to payment services. Tasks include software design and implementation, analysis and monitoring, problem tracking and solving. Topics include credit card authorisation and capture, alternative methods of payment, fraud screening and Three-D Secure.
-			It deals with international payment protocols (Visa, MasterCard, American Express), local country providers and external Payment Services Providers.
-			Technology Stack &mdash;  C++, Oracle DB, XML Schemas, UNIX, Python.
+  summary: Backend Engineer for Amadeus Payment Platform. Worked on Amadeus Payment Server, a highly available transaction backend dedicated to payment services. Tasks include software design and implementation, analysis and monitoring, problem tracking and solving. Topics include credit card authorisation and capture, alternative methods of payment, fraud screening and Three-D Secure. It deals with international payment protocols (Visa, MasterCard, American Express), local country providers and external Payment Services Providers. Technology Stack &mdash;  C++, Oracle DB, XML Schemas, UNIX, Python.
