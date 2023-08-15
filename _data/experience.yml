@@ -5,8 +5,11 @@
   duration: Aug, 2022 &mdash; Present
   summary: 
   - Working as part of core microservice team responsible for developing and maintaining scalable and data intensive backend system.
+
   - Designed and developed APIs that serve over 17k requests per minute in a scaled agile environment using Node.js with PostgreSQL and Mongodb.
+
   - Successfully developed and deployed cron job that updates around 9k rows per day and expedites business, using serverless computing tools like AWS lambda and SQS.
+
   - Contributed to designing various new features as per business requirement.
 
 # Director of Digital Stratgy
