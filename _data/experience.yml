@@ -3,20 +3,15 @@
 - company: Xpressbees
   position: Software Development Engineer- 1
   duration: Aug, 2022 &mdash; Present
-  summary: 
-  - Working as part of core microservice team responsible for developing and maintaining scalable and data intensive backend system.
-
-  - Designed and developed APIs that serve over 17k requests per minute in a scaled agile environment using Node.js with PostgreSQL and Mongodb.
-
-  - Successfully developed and deployed cron job that updates around 9k rows per day and expedites business, using serverless computing tools like AWS lambda and SQS.
-
-  - Contributed to designing various new features as per business requirement.
+  - description: Working as part of core microservice team responsible for developing and maintaining scalable and data intensive backend system.
+  - description: Designed and developed APIs that serve over 17k requests per minute in a scaled agile environment using Node.js with PostgreSQL and Mongodb.
+  - description: Successfully developed and deployed cron job that updates around 9k rows per day and expedites business, using serverless computing tools like AWS lambda and SQS.
+  - description: Contributed to designing various new features as per business requirement.
 
 # Director of Digital Stratgy
 - company: Cognizant Technology Solution
   position: Programmer Analyst
   duration:  Aug, 2020 &mdash; July, 2022
-  summary: 
-  - Worked with Cognizant to manage platform security and accessibility while providing issue resolution support.
-  - Developed features to automate metric calculation, visualize pipeline health status and monitor security hazards.
-  - Trained on Big Data, HDFS, MySQL and Linux.
+  - description: Worked at Cognizant to manage platform security and accessibility while providing issue resolution support.
+  - description: Developed features to automate metric calculation, visualize pipeline health status and monitor security hazards.
+  - description: Trained on Big Data, HDFS, MySQL and Linux.
