@@ -143,13 +143,13 @@
           <h2>Scholastic Accomplishments</h2>
         </header>
 
-        {% for recognition in site.data.recognitions %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <ul class="resume-item-list">
+            {% for recognition in site.data.recognitions %}
+            <li>{{ recognition.description }}</li>
+            {% endfor %}
+          </ul>
         </div>
-        {% endfor %}
 
       </section>
       <!-- end Recognition -->
