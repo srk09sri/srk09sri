@@ -23,7 +23,7 @@ resume_contact_address:         "Pune, IN"
 resume_header_contact_info:     "Pune, IN • 9805107660 • srk09sri@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Welcome to my page.I am a Software Engineer and a problem solving enthusiast with experience in developing and maintaining scalable and data intensive backend systems.</p>"
+resume_header_intro: "<p>Welcome to my page.I am a Software Engineer and a problem solving enthusiast with experience in developing and maintaining scalable and data intensive backend system.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
