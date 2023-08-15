@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Saurabh Singh"
+resume_name:                    "Sarthak Srivastava"
 resume_title:                   "Associate at Goldman Sachs"
 
 # used for the contact button in _layouts/resume.html
