@@ -46,7 +46,7 @@ resume_section_interests:       true
 # uncomment the options you wish to display
 resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/srk09sri/"
-  resume_leetcode_url:          "https://leetcode.com/feed_me_09/"
+  # resume_leetcode_url:          "https://leetcode.com/feed_me_09/"
   resume_github_url:            "https://github.com/srk09sri/"
   resume_instagram_url:         "https://www.instagram.com/sarthak_09_/"
 resume_print_social_links:      true
