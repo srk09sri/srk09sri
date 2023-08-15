@@ -1,6 +1,6 @@
 # Site settings
-title: "Saurabh Singh"
-description: "About Saurabh"
+title: "Sarthak Srivastava"
+description: "About Sarthak"
 
 # Build settings
 markdown: kramdown
@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sarthak Srivastava"
-resume_title:                   "Associate at Goldman Sachs"
+resume_title:                   "Software Development Engineer at Xpressbees"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "saurabhsingh0408@gmail.com"
+resume_contact_email:           "srk09sri@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "9916712709"
-resume_contact_address:         "Bangalore, IN"
+resume_contact_telephone:       "9805107660"
+resume_contact_address:         "Pune, IN"
 
-resume_header_contact_info:     "Bangalore, IN • 9916721709 • saurabhsingh0408@gmail.com"
+resume_header_contact_info:     "Pune, IN • 9805107660 • srk09sri@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Welcome to my page. My goal is to work in a challenging environment demanding all my skills and efforts to explore and adapt myself in different fields and realize my potential where I get the opportunity for continuous learning. Please reach out to me for more details.</p>"
+resume_header_intro: "<p>Welcome to my page.I am a Software Engineer and a problem solving enthusiast with experience in developing and maintaining scalable and data intensive backend systems.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,8 +45,8 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display
 resume_social_links:
-  resume_github_url:            "https://github.com/saurabhsingh0408/about-me"
-  resume_twitter_url:           "http://twitter.com/saurabh_0408"
+  resume_github_url:            "https://github.com/srk09sri/"
+  resume_leetcode_url:          "https://leetcode.com/feed_me_09/"
   resume_facebook_url:          "https://www.facebook.com/saurabh.singh.0408"
   resume_linkedin_url:          "https://www.linkedin.com/in/saurabh-singh-a4916126/"
   resume_instagram_url:         "https://www.instagram.com/saurabh_0408/"
