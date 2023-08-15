@@ -1,13 +1,13 @@
 # Skills
 # Organizational leadership
 - skill: Languages
-  description: Java, C++, Python
+  description: C++, Javascript
 
 - skill: Databases
-  description: SQL, MongoDB
+  description: PostgreSQL, MySQL, MongoDB
 
 - skill: Others
-  description: SpringBoot, Kafka, Git/Hg/SVN
+  description: Node.js, Apache Kafka, Redis, Docker, Lambda
 
 
 # Digital content development and creation

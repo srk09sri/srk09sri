@@ -1,12 +1,17 @@
 # Jobs
 # VP of Global Communications
-- company: Goldman Sachs
-  position: Associate
-  duration: March, 2017 &mdash; Present
-  summary: Working with IMD Tech on the PWM Client Digital Platform. Have been Part of Asia Equities Tech in the Synthetics Products Group.
+- company: Xpressbees
+  position: Software Development Engineer- 1
+  duration: Aug, 2022 &mdash; Present
+  summary: • Working as part of core microservice team responsible for developing and maintaining scalable and data intensive backend system.
+           • Designed and developed APIs that serve over 17k requests per minute in a scaled agile environment using Node.js with PostgreSQL and Mongodb.
+           • Successfully developed and deployed cron job that updates around 9k rows per day and expedites business, using serverless computing tools like AWS lambda and SQS.
+           • Contributed to designing various new features as per business requirement.
 
 # Director of Digital Stratgy
-- company: Amadeus Labs
-  position: Software Engineer
-  duration:  July, 2013 &mdash; March, 2017
-  summary: Backend Engineer for Amadeus Payment Platform. Worked on Amadeus Payment Server, a highly available transaction backend dedicated to payment services. Tasks include software design and implementation, analysis and monitoring, problem tracking and solving. Topics include credit card authorisation and capture, alternative methods of payment, fraud screening and Three-D Secure. It deals with international payment protocols (Visa, MasterCard, American Express), local country providers and external Payment Services Providers. Technology Stack &mdash;  C++, Oracle DB, XML Schemas, UNIX, Python.
+- company: Cognizant Technology Solution
+  position: Programmer Analyst
+  duration:  Aug, 2020 &mdash; July, 2022
+  summary: • Worked with Cognizant to manage platform security and accessibility while providing issue resolution support.
+           • Developed features to automate metric calculation, visualize pipeline health status and monitor security hazards.
+           • Trained on Big Data, HDFS, MySQL and Linux.
